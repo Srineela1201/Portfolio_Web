@@ -1,0 +1,176 @@
+#AM{
+    position: relative;
+    top: 10px;
+    left: 1200px; 
+    font-size: 156.25%;
+}
+
+#AboutMe{
+    background-color: azure;
+    height: 700px;
+}
+
+body{
+    margin: 0;
+}
+
+#CM{
+    position: relative;
+    top: 10px;
+    left: 1250px; 
+    font-size: 156.25%;
+}
+
+#cloud1{
+    position: relative;
+    top: 20px;
+    left: 600px;    
+}
+
+#cloud2{
+    position: absolute;
+    top: 130px;
+    left: 400px;    
+}
+
+#ContactMe{
+    text-align: center;
+    background-color: #73A9AD;
+    display:inline-block; 
+    width: 100%;
+}
+
+#ContactMe p{
+    font-size: 187.5%;
+    margin-bottom: 0cm;
+    margin-top: 0.3cm;
+}
+
+.links a{
+    color: #1A4D2E;
+    background-color: transparent;
+    text-decoration: none;    
+}
+
+.links a:hover{
+    color: azure;
+}
+
+.Home{
+    background-color: #90C8AC;
+    position: relative;
+    height: 713px;
+}
+
+.Home a{
+    color: #1A4D2E;
+    background-color: transparent;
+    text-decoration: none;    
+}
+
+.Home a:hover{
+    color: azure;
+}
+
+.icon{
+    border: solid;
+    border-color: black;
+    border-radius: 50%;
+    max-width: 75px;
+    max-height: 75px;
+    position: absolute;
+    top: 10px;
+    left: 219px;
+}
+
+.Intro{
+    margin-top: 0.2cm;
+    font-size: 125%;
+    text-align: center;
+    font-family: cooper, sans-serif;
+    position: relative;
+    top: 67px;
+}
+
+.Home h1{
+    font-size: 375%;
+    font-style: italic;
+    margin-bottom: 0cm;
+    text-align: center;
+    position: relative;
+    top: 60px;
+}
+.Home h2{
+    font-size: 437.5%;
+    font-style: italic;
+    margin-top: 0cm;
+    text-align: center;
+    margin-bottom: 0;
+    position: relative;
+    top: 65px;
+}
+
+.links{
+    font-size: 250%;
+    word-spacing: 40px;
+}
+
+#Java, #Html, #Css, #JS, #jQuery, #Bootstrap{
+    border: solid;
+    border-radius: 50%;
+    background-color: black;
+    max-width: 100px;
+    max-height: 100px;
+}
+
+#mountain{
+    position: absolute;
+    left: 450px;
+    width: 690px;
+    height: auto;
+    bottom: 0;
+}
+
+#MyPic{
+    border: solid;
+    border-radius: 50%;
+    max-width: 200px;
+    max-height: 200px;
+}
+
+.profile{
+    text-align: center;
+    /*position: relative;
+    bottom: 180px;*/
+}
+
+.profile h2{
+    font-size: 250%;
+    font-style: italic;
+    margin-bottom: 0; 
+    margin-top: 0.2cm;   
+}
+
+.profile p{
+    margin-top: 0.2cm;
+    font-size: 125%;
+    text-align: center;
+    font-family: cooper, sans-serif;    
+}
+
+.Skill{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.skills h1{
+    text-align: center;
+    font-size: 375%;
+}
+
+td{
+    width: 200px;
+}
+
+
+
